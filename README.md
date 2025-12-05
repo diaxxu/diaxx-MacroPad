@@ -31,7 +31,7 @@ Clearance, net labels, and footprints follow the Hackpad guidelines, and everyth
 
 ## CAD
 The case is modeled in Fusion 360.  
-It’s a two-part design (top + bottom) using M3 heat-set inserts and screws to hold everything together.
+It’s a two-part design (top + bottom) using m3 self insert screws to hold everything together. ( or hot glue... ) 
 
 The full assembly is included as a `.STEP` file in the CAD folder.
 ![Top view](screenshot/cad12)
@@ -50,7 +50,7 @@ All firmware files are in the `Firmware/` folder.
 
 ## Notes
 I’m still new to KiCad and electronics, so making this board taught me a lot.  
-Routing the encoder, footprints, and spacing everything correctly took some trial and error, but the final design came together nicely.
+Routing the traces, assigning footprints and spacing everything correctly took some trial and error, but the final design came together nicely and i learnt so much !!! 
 
 ---
 
@@ -60,7 +60,6 @@ Routing the encoder, footprints, and spacing everything correctly took some tria
 - 8× 1N4148 diodes  
 - 1× EC11 rotary encoder  
 - 4× SK6812 Mini-E LEDs  
-- 4× M3×16 screws  
-- 4× M3 heat-set inserts  
+- 4× M3 self-taping screws ( i will buy them myself since they are pretty cheap )   
 - 3D printed case (top + bottom)
 
