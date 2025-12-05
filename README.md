@@ -8,7 +8,7 @@ I wanted it to be simple and aesthetic ^^
 
 ## Features
 - mechanical MX-style keys  
-- EC11 rotary encoder (with push button)  
+- EC11 rotary encoder   
 - SK6812 Mini-E RGB LEDs  
 - PCB designed in KiCad  
 - 3D printed case made in Fusion 360  
@@ -18,7 +18,7 @@ I wanted it to be simple and aesthetic ^^
 ---
 
 ## PCB
-The PCB was made entirely in KiCad. Everything passes DRC.  
+The PCB was made entirely in KiCad. Everything passes ERC.  
 
 
 **PCB Layout:**  
