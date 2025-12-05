@@ -45,12 +45,7 @@ The full assembly is included as a `.STEP` file in the CAD folder.
 
 ## Firmware
 The firmware uses **KMK**, running on CircuitPython.  
-`main.py` handles:
-- Key scanning  
-- Rotary encoder events  
-- Optional RGB LED animations  
-
-All firmware files are in the `Firmware/` folder.
+`main.py` 
 
 ---
 
