@@ -33,7 +33,7 @@ edit : Looking at it again, I can’t believe I actually made something like thi
 
 ## CAD
 The case is modeled in Fusion 360.  
-It’s a two-part design (top + bottom) using m3 self insert screws to hold everything together. ( or hot glue... ) 
+It’s a two-part design (top + bottom) using m3 self tapping screws to hold everything together. ( or hot glue... ) 
 
 The full assembly is included as a `.STEP` file in the CAD folder.
 ![Top view](screenshot/cadfull.png)
