@@ -17,7 +17,7 @@ keyboard = KMKKeyboard()
 keyboard.col_pins = (26, 27, 28)
 keyboard.row_pins = (29, 6, 7)
 
-# You used 1N4148 diodes → standard orientation
+
 keyboard.diode_orientation = keyboard.DIODE_COL2ROW
 
 # ---------------------------
@@ -77,4 +77,5 @@ keyboard.keymap = [
 
 if __name__ == '__main__':
     keyboard.go()
+
 
