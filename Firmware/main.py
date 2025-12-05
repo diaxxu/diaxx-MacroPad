@@ -10,7 +10,7 @@ keyboard = KMKKeyboard()
 # MATRIX CONFIGURATION
 # ---------------------------
 
-# Your matrix:
+
 # Columns: 26, 27, 28
 # Rows:    29, 6, 7
 
@@ -40,7 +40,7 @@ encoders.map = [
 ]
 
 # Encoder push button
-ENCODER_PRESS = KC.ENT  # you can change this
+ENCODER_PRESS = KC.ENT  
 keyboard.hotkey = {(1,): ENCODER_PRESS}
 
 # ---------------------------
@@ -60,8 +60,8 @@ keyboard.modules.append(rgb)
 # KEYMAP
 # ---------------------------
 
-# Matrix is 3x3 = 9 possible positions
-# You probably only wired 4 keys; unused ones can be KC.NO
+
+
 
 keyboard.keymap = [
     [
@@ -77,3 +77,4 @@ keyboard.keymap = [
 
 if __name__ == '__main__':
     keyboard.go()
+
